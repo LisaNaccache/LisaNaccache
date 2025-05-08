@@ -3,7 +3,8 @@
 ## About Me
 
 I am currently a student at ESILV Paris, specializing in **Data and Artificial Intelligence**.  
-I enjoy working on real-world projects combining data science, machine learning, and web data mining.  
+I’m passionate about solving real-world challenges using data science, machine learning, and web technologies.
+I also have strong experience in full-stack web development, from backend to frontend, using modern frameworks.
 
 ## Skills
 
@@ -12,6 +13,7 @@ I enjoy working on real-world projects combining data science, machine learning,
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### • Packages and Tools:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
